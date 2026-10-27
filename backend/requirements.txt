@@ -1,0 +1,6 @@
+# Use Python 3.11; TensorFlow 2.13.0 is unavailable for Python 3.14.
+flask
+tensorflow==2.13.0
+numpy
+pandas
+scikit-learn
